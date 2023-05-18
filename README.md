@@ -1,4 +1,4 @@
-Code and artifacts of the **Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders** paper.
+Code and artifacts of the paper titled **Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders**.
 
 The `reports` folder holds the reports with the results of experiments.
 
