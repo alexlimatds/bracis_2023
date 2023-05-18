@@ -1,6 +1,6 @@
 Code and artifacts of the paper titled **Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders**.
 
-The `reports` folder holds the reports with the results of experiments.
+The `reports` folder holds the reports with the results of experiments. It has a subfolder for each dataset.
 
 Files related to specific models have the model name as prefix. For example, the files `pe_app.py`, `pe_models.py`, `pe_run_InCaseLaw.py` and `pe_run_RoBERTa.py` concern PE-S and PE-C models. The prefix `mixup` relates the Mixup-A models whereas `mixup2` relates the Mixup-B models.
 
