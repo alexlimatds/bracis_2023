@@ -1,4 +1,6 @@
-Code and artifacts of the paper titled **Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders**.
+# Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders
+
+This repository hods code and artifacts of the paper titled **Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders** accpeted in [BRACIS 2023](https://www.bracis.dcc.ufmg.br/).
 
 The `reports` folder holds the reports with the results of experiments. It has a subfolder for each dataset.
 
