@@ -1,0 +1,155 @@
+======== 7-roles Dataset ========
+SingleSC-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+SingleSC-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Cohan-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Cohan-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Cohan-Longformer
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup2-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup2-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-S-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-S-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-C-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-C-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-CLS-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-CLS-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-CLS-Longformer
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-SEP-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-SEP-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-SEP-Longformer
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+
+======== 4-roles Dataset ========
+SingleSC-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+SingleSC-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup2-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Mixup2-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-S-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-S-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-C-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+PE-C-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Cohan-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Cohan-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+Cohan-Longformer
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-CLS-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-CLS-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-CLS-Longformer
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-SEP-InCaseLaw
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-SEP-RoBERTa
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
+DFCSC-SEP-Longformer
+  Precision power: 1.0
+  Recall power:    1.0
+  F1 power:        1.0
