@@ -1,8 +1,8 @@
 # Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders
 
-This repository hods code and artifacts of the paper titled **Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders** accepted in [BRACIS 2023](https://www.bracis.dcc.ufmg.br/).
+This repository holds code and artifacts of the paper titled **Evaluating Recent Legal Rhetorical Role Labeling Approaches Supported by Transformer Encoders** accepted in [BRACIS 2023](https://www.bracis.dcc.ufmg.br/).
 
-The `reports` folder holds the reports with the results of experiments. It has a subfolder for each dataset.
+The `reports` folder holds the reports with the results of experiments. It contains a subfolder for each dataset.
 
 Files related to specific models have the model name as prefix. For example, the files `pe_app.py`, `pe_models.py`, `pe_run_InCaseLaw.py` and `pe_run_RoBERTa.py` concern PE-S and PE-C models. The prefix `mixup` relates the Mixup-A models whereas `mixup2` relates the Mixup-B models.
 
